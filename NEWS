@@ -1,3 +1,10 @@
+Changes in version 1.32.0
+
+DEPRECATION NOTICE
+
+    o Note that clonotypeR is depreacted.  Please adopting it or using a
+      different package.
+
 Changes in version 1.12.0
 
 OTHER CHANGES

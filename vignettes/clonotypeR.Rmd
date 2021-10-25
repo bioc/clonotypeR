@@ -28,6 +28,9 @@ for statistical analysis using existing R packages.
 
 The home page of *clonotypeR* is <http://clonotyper.branchable.com/>.
 
+*Note that clonotypeR is depreacted.  Please adopting it or using a different
+package.*
+
 
 clonotypeR's workflow
 ---------------------
