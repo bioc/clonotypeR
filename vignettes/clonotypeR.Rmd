@@ -1,8 +1,16 @@
-<!--
-%\VignetteEngine{knitr::knitr}
-%\VignetteIndexEntry{clonotypeR User's Guide}
-\usepackage[utf8]{inputenc}
--->
+---
+title: "clonotypeR User's Guide"
+author: 
+ - "Charles Plessy"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteEncoding{UTF-8}
+  %\VignetteIndexEntry{clonotypeR User's Guide}
+  %\VignetteEngine{knitr::rmarkdown}
+editor_options: 
+  chunk_output_type: console
+---
 
 clonotypeR: Identify and analyse B and T cell receptors at a high throughput
 ============================================================================

@@ -20,6 +20,7 @@ Suggests:
     edgeR,
     knitr,
     pvclust,
+    rmarkdown,
     RUnit,
     vegan
 VignetteBuilder: knitr
