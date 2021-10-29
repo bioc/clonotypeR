@@ -64,7 +64,7 @@ The R package is loaded as usual.
 
 ```{r load_package}
 library(clonotypeR)
-````
+```
 
 The data is a table of 120 clonotypes in the `extdata` folder of the package.
 The command `read_clonotypes` will parse it in a data frame.  The clonotypes
