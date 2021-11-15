@@ -1,7 +1,7 @@
 Package: clonotypeR
 Type: Package
 Title: High throughput analysis of T cell antigen receptor sequences
-Version: 1.33.2
+Version: 1.33.3
 Date: 2021-10-29
 Author: Charles Plessy <charles.plessy@oist.jp>
 Maintainer: Charles Plessy <charles.plessy@oist.jp>
@@ -29,3 +29,4 @@ biocViews: Sequencing
 URL: http://clonotyper.branchable.com/
 BugReports: http://clonotyper.branchable.com/Bugs/
 RoxygenNote: 5.0.1
+PackageStatus: Deprecated
